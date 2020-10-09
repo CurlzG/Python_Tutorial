@@ -1,7 +1,8 @@
 # Python_Tutorial
 These repo is just to show off different tutorials or things i have tired and created in python 
 <br>
-Pong is just the classic pong game <br>
+Pong <br>
+Involves a basic verision of pong which is playable with the keyboard <br>
 <br>
 Webscraper <br> 
 folder containing different scripts that involve scraping websites<br>
