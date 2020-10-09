@@ -1,7 +1,8 @@
 # Python_Tutorial
-These repo is just to show off different tutorials or things i have tired and created in python 
+These repo is just to show off different tutorials or things i have tired and created in python <br>
 <br>
 Pong <br>
+---------------------------------<br>
 Involves a basic verision of pong which is playable with the keyboard <br>
 <br>
 Webscraper <br> 
